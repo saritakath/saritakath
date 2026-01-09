@@ -1,19 +1,31 @@
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
-Este es una pagina de prueba 
+***Este*** es una *pagina* ~~de~~ **prueba**  `git status`
 
-<!--
-**saritakath/saritakath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+public class Hola{
+  public Hola() {
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  }
+}
+```
+| Lenguaje | Nivel | uso   |
+|----------|-------|-------|
+| Java     | Alto  |Backend|
+| Java     | Alto  |Backend|
+
+-[ ] Implementacion
+-[ ] Diseño 
+-[x] pruebas
+
+-Item
+-Item1
+-Item2
+
+<p align="center"> Texto </p>
+
+![Bratz](https://es.pinterest.com/mariagarciasantos21/brazt/)
+-Item2
+
